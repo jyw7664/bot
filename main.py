@@ -1,1 +1,1 @@
-print("Hello yewon ~3~")
+print("Hello yewon \^^/")
